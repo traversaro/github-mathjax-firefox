@@ -1,3 +1,7 @@
+# Important
+
+**This repo is just a convenience copy of unmantained (and unsafe) code. Please use alternatives such https://github.com/nschloe/green-pi .**
+
 # github-mathjax-firefox
 Repo containing packaged version of github-mathjax extention for Firefox.
 
